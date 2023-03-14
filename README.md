@@ -2,7 +2,7 @@
 Hi, I'm Michael Ouru and I am a skilled web developer with expertise in the MERN (MongoDB, Express.js, React.js, and Node.js) stack. I am passionate about creating robust, scalable web applications that provide value to the end-user.
 
 **Education and Training**
-I completed the **MERN stack Complete Web Development** bootcamp, where I learned to develop and deploy full-stack JavaScript applications using the latest frameworks and tools. I gained hands-on experience building projects from scratch, developing backend APIs, and integrating machine learning algorithms into my applications.
+After graduating with a Computer Science degree, I completed the **MERN stack Complete Web Development** bootcamp, where I learned to develop and deploy full-stack JavaScript applications using the latest frameworks and tools. I gained hands-on experience building projects from scratch, developing backend APIs, and integrating machine learning algorithms into my applications.
 
 **Skills**
 - Full-stack development with MERN stack (MongoDB, Express.js, React.js, Node.js)
