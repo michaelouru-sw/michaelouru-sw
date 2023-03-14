@@ -20,6 +20,7 @@ Project 1: Keeper app, a note taking application which is a clone of the google 
 Project 2: Newsletter signup, an app that allows you to post blog posts, and followers can sign up to the newsletters. This was implemented through mailchimp API integration, MongoDb, React.js, Express, and Node.js
 
 **Contact Information**
+
 Please feel free to reach me on my email at michaelouru2@gmail.com/michaelouru@hotmail.com or follow me on linkedin.com/in/michael-ouru-215671152. I am always interested in discussing new opportunities and collaborations.
 
 Thank you for taking the time to review my career as a web developer. I look forward to hearing from you!
