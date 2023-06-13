@@ -18,6 +18,7 @@ Here are some of the noteworthy projects I have developed during my time at the 
 
 - Project 1: Keeper app, a note taking application which is a clone of the google keep. Technologies used - React, Express, MongoDB, NodeJS
 - Project 2: Newsletter signup, an app that allows you to post blog posts, and followers can sign up to the newsletters. This was implemented through mailchimp API integration, MongoDb, React.js, Express, and Node.js
+- Project 3: Events app, a web-app for tracking all events in town. Technologies used - React, MongoDB, Express, NodeJS, NextJS
 
 **Contact Information**
 
