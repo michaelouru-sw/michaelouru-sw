@@ -1,28 +1,16 @@
-I operate at the intersection of Computer Science, Learning Engineering, Artificial Intelligence, and Strategic Project Leadership, designing scalable digital learning systems that transform how organizations educate, train, and develop talent.
+I work at the intersection of Learning Engineering, Artificial Intelligence, and Educational Technology Leadership — designing digital learning systems that help institutions educate and train at scale.
 
-My work focuses on architecting intelligent learning ecosystems—combining learning science, technology infrastructure, and data-driven insights to create education systems that are adaptive, measurable, and globally scalable.
+As LMS & Media Services Lead at KCA University's Centre for Open and Distance Education, I run a Moodle platform serving ~30,000 students, leading MOOC configuration, instructional design, and interactive course development. Through Instracta eLearning Solutions, the consultancy I founded, I've delivered EdTech engagements for organizations including UNESCO, UNICEF, UNDP, ILO, Oxfam Novib, and the CTBTO.
 
-With a foundation in computer science and certification in project management, I translate complex institutional goals into high-impact digital learning strategies that drive performance, knowledge accessibility, and organizational growth.
+Core Areas
 
-Core Areas of Expertise
+AI-Powered Learning Systems — applying automation, analytics, and adaptive learning technology to improve learning outcomes at scale.
+Learning Engineering & LMS Architecture — building and optimizing large-scale platforms (Moodle and others), integrating learning analytics with instructional design.
+Strategic Project Leadership — PMP®-certified; leading initiatives across corporate, NGO, and academic sectors.
+Instructional Design & Capacity Development — curriculum design, multimedia production, and training teams to manage scalable learning systems.
 
-- AI-Powered Learning Systems: I specialize in applying artificial intelligence to digital education—leveraging automation, analytics, and adaptive learning technologies to design systems that continuously optimize learning outcomes at scale.
+Background
 
-- Learning Engineering & Digital Education Architecture: My work involves building and optimizing large-scale learning ecosystems through learning management systems such as Moodle and Learning Passport. I integrate learning analytics, instructional design, and system architecture to create high-performing digital learning environments.
+BSc in Applied Computer Science (Chuka University); currently pursuing an MEd in Learning Design and Technology (Open University of Kenya). My research focuses on adaptive eLearning for Sub-Saharan African and Global South contexts.
 
-- Strategic Project Leadership: As a PMP®-certified professional, I lead complex initiatives across corporate, NGO, and government sectors. My approach combines Agile methodologies, systems thinking, and stakeholder alignment to ensure projects deliver measurable value and sustainable impact.
-
-- Monitoring, Evaluation & Learning (MEL): I design data-driven monitoring and evaluation frameworks that enable organizations to measure learning outcomes, improve program effectiveness, and support evidence-based decision-making.
-
-- Instructional Design & Capacity Development: I lead the development of high-quality digital learning experiences—from curriculum design and multimedia production to training teams and institutions to manage scalable learning systems.
-
-Vision
-
-My long-term focus is advancing the field of AI-enabled learning engineering, helping institutions move beyond traditional eLearning toward intelligent learning systems that adapt, analyze, and continuously improve learning outcomes.
-
-I am particularly interested in collaborations around:
-
-- AI in education
-- learning engineering
-- digital learning transformation
-- large-scale education systems
+Open to collaborating on: AI in education · learning engineering · digital learning transformation · large-scale education systems
